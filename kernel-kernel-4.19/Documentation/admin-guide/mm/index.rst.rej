@@ -1,0 +1,10 @@
+--- Documentation/admin-guide/mm/index.rst
++++ Documentation/admin-guide/mm/index.rst
+@@ -27,6 +27,7 @@ the Linux memory management.
+ 
+    concepts
+    cma_debugfs
++   damon/index
+    hugetlbpage
+    idle_page_tracking
+    ksm
